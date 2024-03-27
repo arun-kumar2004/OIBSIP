@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit-Go</string>
+    <string name="length_measure">Length</string>
+    <string name="area_measure">Area</string>
+    <string name="volume_measure">Volume</string>
+    <string name="weight_measure">Weight</string>
+    <string name="temperature_measure">Temperature</string>
+    <string name="speed_measure">Speed</string>
+    <string name="time_measure">Time</string>
+    <string name="currency_measure">Currency</string>
+</resources>
